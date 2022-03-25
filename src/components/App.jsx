@@ -4,7 +4,7 @@ import React from 'react';
 const App = () => {
     return (
         <h1>
-           Hola mundo 
+           Hola mundo!
         </h1>
     );
 };
