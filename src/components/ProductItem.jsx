@@ -7,7 +7,7 @@ const ProductItem = ({ product }) => {
 	const { addToCart } = useContext(AppContext);
 
 	const handleClick = item => {
-		setCart(item);
+		addToCart(item);
 	}
 	return (
 		<div className="ProductItem">
