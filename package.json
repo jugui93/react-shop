@@ -9,7 +9,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [
-    "rect",
+    "react",
     "javascript"
   ],
   "author": "Juan Morales <juanguillermo93@gmail.com>",
