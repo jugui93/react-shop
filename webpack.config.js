@@ -18,7 +18,7 @@ module.exports = {
             '@pages' : path.resolve(__dirname, 'src/pages/'),
             '@styles' : path.resolve(__dirname, 'src/styles/'),
             '@icons' : path.resolve(__dirname, 'src/assets/icons'),
-            '@logos' : path.resolve(__dirname, 'src/assets/logos/'),
+            '@logos' : path.resolve(__dirname, 'src/assets/logos'),
             '@routes' : path.resolve(__dirname, 'src/routes/')
         }
     },
